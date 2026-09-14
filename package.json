@@ -1,0 +1,12 @@
+{
+  "name": "cui-timetable-scraper",
+  "version": "1.0.0",
+  "description": "Puppeteer scraper for CUI Lahore faculty timetables",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "dependencies": {
+    "puppeteer": "^22.0.0"
+  }
+}

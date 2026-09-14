@@ -1,0 +1,9 @@
+# Dependencies
+node_modules/
+
+# Puppeteer Chromium cache
+.cache/
+
+# OS files
+.DS_Store
+Thumbs.db
